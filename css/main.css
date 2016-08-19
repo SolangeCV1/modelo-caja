@@ -1,0 +1,16 @@
+p{	
+	text-align: center;
+	border:dashed;
+	background-color: white; 
+}
+div{
+	border: 500px 100px ;
+	padding: 50px 300px;  
+	background-color:#b2eaff;
+	margin: 100px;
+	width:250px;
+	border-top: 10px solid violet;
+	border-left: 3px solid violet;
+	border-right: 5px solid violet;
+	border-bottom: 14px solid violet;
+}
